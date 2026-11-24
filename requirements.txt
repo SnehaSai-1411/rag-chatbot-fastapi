@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+rank-bm25
+streamlit
+pytest
+httpx
+python-dotenv
+anthropic
+openai
